@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Fabian, a Junior full-stack Web developer !
+### Hi there 👋, I'm Fabian, a Junior front-end Web developer !
 
 ---
 
